@@ -11,9 +11,9 @@ http://live.impresa.pt/live/sic/sic.m3u8
 http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/KodiPortugal.pt.m3u8
 #EXTINF:0 type="stream" channelId="2647" tvg-logo="http://www.thelogodb.com/images/media/logo/cdi6t51487621667.png/medium", TVI [Alternativa]
 http://video-live.iol.pt:1935/live_tvi/LIVE_TVI-1/KodiPortugal.pt.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://www.thelogodb.com/images/media/logo/rswvxv1433344605.png/medium", SIC NOTICIAS
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.thelogodb.com/images/media/logo/rswvxv1433344605.png/medium", SIC NOTICIAS
 http://live.impresa.pt/live/sicnot/sicnot540p.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://www.thelogodb.com/images/media/logo/rswvxv1433344605.png/medium", SIC NOTICIAS [Alternativa]
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.thelogodb.com/images/media/logo/rswvxv1433344605.png/medium", SIC NOTICIAS [Alternativa]
 http://live.impresa.pt/live/sicnot/sicnot.m3u8
 #EXTINF:0 type="stream" channelId="3240" tvg-logo="http://www.thelogodb.com/images/media/logo/uvtqyy1461670745.png/medium", RTP3
 http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/KodiPortugal.pt.m3u8
@@ -61,10 +61,6 @@ http://cancaonova-push-live.hls.adaptive.level3.net/hls-live/cancaonova-channel0
 http://213.13.26.11:1935/live/santuario.stream/KodiPortugal.pt.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.jfarroios.pt/wp-content/uploads/2016/09/A_Marca_Logo_yellow.png", ARROIOS TV
 http://213.13.26.43:1935/live/luis/chunklist_w1130871721.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://www.thelogodb.com/images/media/logo/uyysuv1433430227.png/medium", NASA PUBLIC (US)
-https://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://www.thelogodb.com/images/media/logo/uyysuv1433430227.png/medium", NASA TV MEDIA (US)
-https://nasa-i.akamaihd.net/hls/live/253566/NASA-NTV2-Media/master.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://lh3.googleusercontent.com/-UnK39Ro_n8w/Vcn2Fq2_yKI/AAAAAAAAACk/z14TsFRKmXY/w426-h427/ISSTracker_v4a.png",LIVE ISS STREAM
 http://d2ai41bknpka2u.cloudfront.net/live/iss.stream_source/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.selectivesearch.com/wp-content/uploads/2014/03/SS_press_WGN9CW1.png",WGN NEWS CHICAGO (US)
@@ -163,8 +159,6 @@ http://video-auth1.iol.pt:1935/beachcam/evaristo/chunks.m3u8
 http://video-auth1.iol.pt:1935/beachcam/vilamoura/chunks.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300", JARDIM DO MAR
 http://video-auth1.iol.pt:1935/beachcam/madeirajardimdomar/chunks.m3u8
-#EXTINF:0 type="stream" channelId="-1", RADIO COMERCIAL
-http://mcrscast.mcr.iol.pt/comercial.mp3
 #EXTINF:0 type="stream" channelId="-1", M80
 http://mcrscast.mcr.iol.pt/m80
 #EXTINF:0 type="stream" channelId="-1", RADIO RFM
@@ -243,20 +237,6 @@ http://rdportugal-lh.akamaihd.net/i/rdportugal_1@191321/index_1_a-p.m3u8?sd=10&r
 http://radio1.suaradionanet.net:10308/stream?type=.flv
 #EXTINF:0 type="stream" channelId="-1", RLCB DANCE
 http://rlcbdance.no-ip.org:8431/
-#EXTINF:0 type="stream" channelId="-1",RÁDIO REGIONAL
-http://streaming.radioregional.pt:8002
-#EXTINF:0 type="stream" channelId="-1",RÁDIO REGIONAL [Alternativa]
-http://streaming.radioregional.pt:8000
-#EXTINF:0 type="stream" channelId="-1",RÁDIO REGIONAL ROCK
-http://streaming.radioregional.pt:8046
-#EXTINF:0 type="stream" channelId="-1",RÁDIO REGIONAL DANCE & DJ'S
-http://streaming.radioregional.pt:8064
-#EXTINF:0 type="stream" channelId="-1",RÁDIO REGIONAL LOVE SONGS
-http://streaming.radioregional.pt:8058
-#EXTINF:0 type="stream" channelId="-1",RÁDIO REGIONAL OLDIES
-http://streaming.radioregional.pt:8052
-#EXTINF:0 type="stream" channelId="-1",RADIO REGIONAL PORTUGUESA
-http://streaming.radioregional.pt:8040
 #EXTINF:0 type="stream" channelId="-1", RADIO SIM
 http://62.48.143.117/RADIO_SIM_SC
 #EXTINF:0 type="stream" channelId="-1", RADIO UNIVERSIDADE DE COIMBRA
