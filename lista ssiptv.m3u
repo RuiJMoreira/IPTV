@@ -67,8 +67,6 @@ https://nasa-i.akamaihd.net/hls/live/253565/NASA-NTV1-Public/master.m3u8
 https://nasa-i.akamaihd.net/hls/live/253566/NASA-NTV2-Media/master.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://lh3.googleusercontent.com/-UnK39Ro_n8w/Vcn2Fq2_yKI/AAAAAAAAACk/z14TsFRKmXY/w426-h427/ISSTracker_v4a.png",LIVE ISS STREAM
 http://d2ai41bknpka2u.cloudfront.net/live/iss.stream_source/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://rentagoat.com/wp-content/uploads/2013/07/cbs-news.png",CBS NEWS (US)
-http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4ce359830f572d2496a947&iu=/8264/vaw-can/mobile_web/cbsnews_mobile
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.selectivesearch.com/wp-content/uploads/2014/03/SS_press_WGN9CW1.png",WGN NEWS CHICAGO (US)
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://seasonax.com/application/files/7714/5826/5701/img_144_logobb.png",BLOOMBERG (US)
