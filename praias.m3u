@@ -1,0 +1,115 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300",LEÇA DA PALMEIRA
+http://video-auth1.iol.pt:1935/beachcam/lecadapalmeira/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300",MATOSINHOS
+http://video-auth1.iol.pt:1935/beachcam/matosinhos/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300",ESPINHO
+http://video-auth1.iol.pt:1935/beachcam/espinho/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300",ESMORIZ
+http://video-auth1.iol.pt:1935/beachcam/esmoriz/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300",FURADOURO
+http://video-auth1.iol.pt:1935/beachcam/furadouro/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300",TORREIRA
+http://video-auth1.iol.pt:1935/beachcam/torreira/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300",BARRA
+http://video-auth1.iol.pt:1935/beachcam/aveiro/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300",VAGUEIRA
+http://video-auth1.iol.pt:1935/beachcam/vagueira/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300",MIRA
+http://video-auth1.iol.pt:1935/beachcam/bcmira/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300",BUARCOS
+http://video-auth1.iol.pt:1935/beachcam/figueiradafoz/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300",NAZARÉ
+http://video-auth1.iol.pt:1935/beachcam/nazareparadonorte/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300",SUPERTUBOS
+http://video-auth1.iol.pt:1935/beachcam/supertubos/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300",LAGIDE
+http://video-auth1.iol.pt:1935/beachcam/lagide/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300",SANTA CRUZ
+http://video-auth1.iol.pt:1935/beachcam/santacruz/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300",RIBEIRA D´ ILHAS
+http://video-auth1.iol.pt:1935/beachcam/ribeiradilhas/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300",ERICEIRA
+http://video-auth1.iol.pt:1935/beachcam/ericeiraspots/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300",GRANDE
+http://video-auth1.iol.pt:1935/beachcam/praiagrande/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300",GUINCHO NORTE
+http://video-auth1.iol.pt:1935/beachcam/praiaguinchonorte/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300",GUINCHO SUL
+http://video-auth1.iol.pt:1935/beachcam/praiaguinchosul/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300",S.PEDRO ESTORIL
+http://video-auth1.iol.pt:1935/beachcam/saopedroestoria/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300",CARCAVELOS
+http://video-auth1.iol.pt:1935/beachcam/carcavelos/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300",CAPARICA CDS
+http://video-auth1.iol.pt:1935/beachcam/costacaparicacds/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300",CAPARICA S.JOÃO
+http://video-auth1.iol.pt:1935/beachcam/costacaparicasaojoao/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300",FONTE DA TELHA
+http://video-auth1.iol.pt:1935/beachcam/fontedatelha/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300",CARVALHAL
+http://video-auth1.iol.pt:1935/beachcam/carvalhal/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300",S. TORPES
+http://video-auth1.iol.pt:1935/beachcam/saotorpes/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300",ZAMBUJEIRA
+http://video-auth1.iol.pt:1935/beachcam/zambujeira/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300",AMOREIRA
+http://video-auth1.iol.pt:1935/beachcam/bcamoreira/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300",ARRIFANA
+http://video-auth1.iol.pt:1935/beachcam/arrifana/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300",PRAIA DA LUZ
+http://video-auth1.iol.pt:1935/beachcam/luz/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300",MEIA PRAIA
+http://video-auth1.iol.pt:1935/beachcam/meiapraia/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300",ALVOR
+http://video-auth1.iol.pt:1935/beachcam/alvor/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300",PRAIA DA ROCHA
+http://video-auth1.iol.pt:1935/beachcam/praiadarocha/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300",PRAIA DA GALÉ
+http://video-auth1.iol.pt:1935/beachcam/bcgale/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300",EVARISTO
+http://video-auth1.iol.pt:1935/beachcam/evaristo/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300",VILAMOURA
+http://video-auth1.iol.pt:1935/beachcam/vilamoura/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300",JARDIM DO MAR
+http://video-auth1.iol.pt:1935/beachcam/madeirajardimdomar/chunks.m3u8
+
+#EXTINF:-1 tvg-id="n/a" tvg-logo="https://lh3.ggpht.com/8tnOYXzdw0CafgPm16z5PgbM7mfhWo24WiJVnKYjnEmUMp-sJYu3XJPh0agflb7y2e4=w300",PRAIA DAS ROCAS
+http://213.13.26.11:1935/live/rocas.stream/chunks.m3u8
