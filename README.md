@@ -12,6 +12,7 @@ Todas as informações, instruções de instalação e EPG (GuiaTV) em - http://
 - lista ssiptv.m3u (http://ssiptv.kodiportugal.com)
 
 Instruções de instalação SAMSUNG & LG em - https://youtu.be/1211s9wcohE [CRÉDITOS - CANAL CASSIANO ANDROID]
+
 (No campo "Source" indicar o link acima)
 
 # Disclaimer
