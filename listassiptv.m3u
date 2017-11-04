@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:0 type="stream" tvg-logo="http://www.thelogodb.com/images/media/logo/rtysxv1466191624.png/medium", RTP 1
-http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp1_5ch5h264.stream/KodiPortugal.pt.m3u8
+http://streaming-live.rtp.pt/liverepeater/smil:rtp1.smil/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/'
 #EXTINF:0 type="stream" channelId="2833" tvg-logo="http://www.thelogodb.com/images/media/logo/yvttxv1466191438.png/medium", RTP 2
-http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp2_5ch3h264.stream/KodiPortugal.pt.m3u8
+http://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/'
 #EXTINF:0 type="stream" channelId="2645" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png", SIC
 http://live.impresa.pt/live/sic/sic540p.m3u8
 #EXTINF:0 type="stream" channelId="2645" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png/medium", SIC [Alternativa]
@@ -16,14 +16,14 @@ http://live.impresa.pt/live/sicnot/sicnot540p.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.thelogodb.com/images/media/logo/rswvxv1433344605.png/medium", SIC NOTICIAS [Alternativa]
 http://live.impresa.pt/live/sicnot/sicnot.m3u8
 #EXTINF:0 type="stream" channelId="3240" tvg-logo="http://www.thelogodb.com/images/media/logo/uvtqyy1461670745.png/medium", RTP3
-http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/KodiPortugal.pt.m3u8
+http://streaming-live.rtp.pt/liverepeater/smil:rtpn.smil/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/'
 #EXTINF:0 type="stream" channelId="2648" tvg-logo="http://www.thelogodb.com/images/media/logo/wtysqy1436898428.png", TVI24
 http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/KodiPortugal.pt.m3u8
 #EXTINF:0 type="stream" channelId="2648" tvg-logo="http://www.thelogodb.com/images/media/logo/wtysqy1436898428.png", TVI24 [Alternativa]
 http://video-live.iol.pt:1935/live_tvi24/LIVE_TVI24-1/KodiPortugal.pt.m3u8
-#EXTINF:0 type="stream" channelId="2853" tvg-logo="https://www.thelogodb.com/images/media/logo/rqrvpy1433343925.png/medium", SIC CARAS
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://www.thelogodb.com/images/media/logo/rqrvpy1433343925.png/medium", SIC CARAS
 http://live.impresa.pt/live/sicrad/sicrad540p.m3u8
-#EXTINF:0 type="stream" channelId="2853" tvg-logo="https://www.thelogodb.com/images/media/logo/rqrvpy1433343925.png/medium", SIC CARAS [Alternativa]
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://www.thelogodb.com/images/media/logo/rqrvpy1433343925.png/medium", SIC CARAS [Alternativa]
 http://live.impresa.pt/live/sicrad/sicrad.m3u8
 #EXTINF:0 type="stream" channelId="2855" tvg-logo="http://www.thelogodb.com/images/media/logo/yuxppt1465900144.png/medium", PORTO CANAL
 http://213.13.26.11:1935/live/portocanal/KodiPortugal.pt.m3u8
@@ -38,15 +38,15 @@ rtsp://213.13.26.13:1935/live/portocanal
 #EXTINF:0 type="stream" channelId="2855" tvg-logo="http://www.thelogodb.com/images/media/logo/yuxppt1465900144.png/medium", PORTO CANAL [Alternativa]
 rtsp://213.13.26.41:1935/live/portocanal
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="http://i.imgur.com/om9BKuk.png", RTP ACORES
-http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpacores_5rtpacores.stream/KodiPortugal.pt.m3u8
+http://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/'
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.thelogodb.com/images/media/logo/ysvppt1438186219.png/medium", RTP AFRICA
-http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpafrica_5ch27h264.stream/KodiPortugal.pt.m3u8
+http://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/'
 #EXTINF:0 type="stream" channelId="372" tvg-logo="http://www.thelogodb.com/images/media/logo/xwquyw1438185975.png", RTP INTERNACIONAL
-http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpi_5ch120h264.stream/playlist.m3u8
+http://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/'
 #EXTINF:0 type="stream" channelId="2643" tvg-logo="http://i.imgur.com/EQk4X7n.png", RTP MADEIRA
-http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmadeira_5ch1016h264H14.stream/KodiPortugal.pt.m3u8
+http://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/'
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="http://i.imgur.com/lWlG90R.png", RTP MEMORIA
-http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmem_5ch80h264.stream/KodiPortugal.pt.m3u8
+http://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/chunklist.m3u8|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36&Referer=http://www.rtp.pt/play/'
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.thelogodb.com/images/media/logo/squwqv1438186600.png/medium", TCV
 http://213.13.26.11:1935/live/rtc_teste/KodiPortugal.pt.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.thelogodb.com/images/media/logo/squwqv1438186600.png/medium", TCV [Alternativa]
