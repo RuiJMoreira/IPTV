@@ -136,7 +136,7 @@ https://nasa-i.akamaihd.net/hls/live/253566/NASA-NTV2-Media/master.m3u8
 http://d2ai41bknpka2u.cloudfront.net/live/iss.stream_source/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="n/a" tvg-logo="http://rentagoat.com/wp-content/uploads/2013/07/cbs-news.png",CBS NEWS (US)
-http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4ce359830f572d2496a947&iu=/8264/vaw-can/mobile_web/cbsnews_mobile
+https://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master_120.m3u8
 
 #EXTINF:-1 tvg-id="n/a" tvg-logo="http://www.selectivesearch.com/wp-content/uploads/2014/03/SS_press_WGN9CW1.png",WGN NEWS CHICAGO (US)
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
@@ -157,7 +157,7 @@ http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/playlist.m3u8
 http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
 
 #EXTINF:-1 tvg-id="n/a" tvg-logo="http://www.industryandbusiness.ie/wp-content/uploads/2015/11/russia-today.png",RUSSIA TODAY (INT.)
-http://rt.ashttp14.visionip.tv/live/rt-global-live-HD/playlist.m3u8
+https://secure-streams.akamaized.net/rt/index1600.m3u8
 
 #EXTINF:-1 tvg-id="n/a" tvg-logo="https://www.winthewealthgame.com/wp-content/uploads/2016/03/final-ann7-logo-2015.png" ,ANN7 SOUTH AFRICA (INT.)
 http://46.4.25.213/live-ann7/ann7-mid.stream/playlist.m3u8
