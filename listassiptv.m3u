@@ -8,9 +8,7 @@ http://live.impresa.pt/live/sic/sic540p.m3u8
 #EXTINF:0 type="stream" channelId="2645" tvg-logo="http://www.thelogodb.com/images/media/logo/uqqyxw1436843634.png/medium", SIC [Alternativa]
 http://live.impresa.pt/live/sic/sic.m3u8
 #EXTINF:0 type="stream" channelId="2647" tvg-logo="http://www.thelogodb.com/images/media/logo/cdi6t51487621667.png/medium", TVI
-http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/KodiPortugal.pt.m3u8
-#EXTINF:0 type="stream" channelId="2647" tvg-logo="http://www.thelogodb.com/images/media/logo/cdi6t51487621667.png/medium", TVI [Alternativa]
-http://video-live.iol.pt:1935/live_tvi/LIVE_TVI-1/KodiPortugal.pt.m3u8
+https://video-auth3.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDE3IDEwOjMwOjkgUE0maGFzaF92YWx1ZT1HcG56ak42b21KSDRVa0VCLzFHak5nPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9IisgZGVjb2RlZFBheWxvYWQudXNlcl9uYW1lICsi
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.thelogodb.com/images/media/logo/rswvxv1433344605.png/medium", SIC NOTICIAS
 http://live.impresa.pt/live/sicnot/sicnot540p.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.thelogodb.com/images/media/logo/rswvxv1433344605.png/medium", SIC NOTICIAS [Alternativa]
@@ -18,9 +16,7 @@ http://live.impresa.pt/live/sicnot/sicnot.m3u8
 #EXTINF:0 type="stream" channelId="3240" tvg-logo="http://www.thelogodb.com/images/media/logo/uvtqyy1461670745.png/medium", RTP3
 http://rtp-pull-live-h1bnxvdk2-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpn_5ch64h264.stream/KodiPortugal.pt.m3u8
 #EXTINF:0 type="stream" channelId="2648" tvg-logo="http://www.thelogodb.com/images/media/logo/wtysqy1436898428.png", TVI24
-http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/KodiPortugal.pt.m3u8
-#EXTINF:0 type="stream" channelId="2648" tvg-logo="http://www.thelogodb.com/images/media/logo/wtysqy1436898428.png", TVI24 [Alternativa]
-http://video-live.iol.pt:1935/live_tvi24/LIVE_TVI24-1/KodiPortugal.pt.m3u8
+https://video-auth4.iol.pt/live_tvi24/live_tvi24/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDE3IDEwOjM3OjQzIFBNJmhhc2hfdmFsdWU9eDRpRXZIMVR0cjlhNmhLTmp1cUZMQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWI4YzJjYzA0LTYyY2QtNGIwMS04YzQ3LWJkN2NiMDgxY2I4Yg==
 #EXTINF:0 type="stream" channelId="2853" tvg-logo="https://www.thelogodb.com/images/media/logo/ustqwy1436891230.png", SIC RADICAL
 http://live.impresa.pt/live/sicrad/sicrad540p.m3u8
 #EXTINF:0 type="stream" channelId="2853" tvg-logo="https://www.thelogodb.com/images/media/logo/ustqwy1436891230.png", SIC RADICAL [Alternativa]
