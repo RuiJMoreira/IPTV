@@ -17,7 +17,7 @@ Todas as informações, instruções de instalação e EPG (GuiaTV) em - http://
 # Lista para SS IPTV (descontinuada temporariamente)
 ~~lista ssiptv.m3u (http://ssiptv.kodiportugal.com)~~
 
-~~Instruções de instalação SAMSUNG & LG em - https://youtu.be/1211s9wcohE [CRÉDITOS - CANAL CASSIANO ANDROID]~~
+~~Instruções de instalação SAMSUNG & LG em  https://youtu.be/1211s9wcohE [CRÉDITOS - CANAL CASSIANO ANDROID]~~
 
 ~~(No campo "Source" indicar o link acima)~~
 
