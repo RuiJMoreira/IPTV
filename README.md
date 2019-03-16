@@ -15,7 +15,7 @@ O código do script que está a ser usado fica disponível em https://github.com
 Todas as informações, instruções de instalação e EPG (GuiaTV) em - http://kodiportugal.pt/lista-iptv-pt-streams-oficiais
 
 # Lista para SS IPTV (descontinuada temporariamente)
-~~lista ssiptv.m3u (http://ssiptv.kodiportugal.com)~~
+~~- lista ssiptv.m3u (http://ssiptv.kodiportugal.com)~~
 
 ~~Instruções de instalação SAMSUNG & LG em - https://youtu.be/1211s9wcohE [CRÉDITOS - CANAL CASSIANO ANDROID]~~
 
