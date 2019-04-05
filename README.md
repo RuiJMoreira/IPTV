@@ -3,9 +3,9 @@ Conjunto de links de stream portugueses legais.
 
 # Últimas atualizações
 
-As listas, lista.m3u e ssiptv.m3u, tiveram de ser movidas para um servidor pessoal porque era preciso automatizar o processo de mudança de alguns links com tokens baseados em tempo.
+As lista principal teve de ser movida para um servidor pessoal porque era preciso automatizar o processo de mudança de alguns links com tokens baseados em tempo.
 
-O código do script que está a ser usado fica disponível em https://github.com/RuiJMoreira/IPTVGenerator (para já de forma privada). 
+O código dos scripts que estão a ser usados ficam disponíveis em https://github.com/RuiJMoreira/KodiPortugalRedirectService e em https://github.com/RuiJMoreira/wmsAuthSign_TVI (para já de forma privada). 
 
 # Listas para Kodi
 - lista.m3u (http://lista.kodiportugal.com)
