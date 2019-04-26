@@ -5,7 +5,7 @@ Conjunto de links de stream portugueses legais.
 
 As lista principal teve de ser movida para um servidor pessoal porque era preciso automatizar o processo de mudança de alguns links com tokens baseados em tempo.
 
-O código dos scripts que estão a ser usados ficam disponíveis em https://github.com/RuiJMoreira/KodiPortugalRedirectService (para já de forma privada). 
+O código dos scripts que estão a ser usados ficam disponíveis em https://github.com/RuiJMoreira/KodiPortugalRedirectService
 
 # Listas para Kodi
 - lista.m3u (http://lista.kodiportugal.com)
